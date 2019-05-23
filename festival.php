@@ -10,7 +10,7 @@ Author URI: http://www.zambrano.ch
 License: GPL2
 */
 
-require_once dirname(__DIR__) . '/typerocket/init.php';
+require_once dirname(__DIR__) . '/typerocket-fest/init.php';
 
 include 'taxonomy/artist_type.php';
 include 'taxonomy/classroom.php';
